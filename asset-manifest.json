@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Flight_Booking-React/static/css/main.036ea0e1.css",
+    "main.js": "/Flight_Booking-React/static/js/main.097cd61d.js",
+    "static/media/background2.jpg": "/Flight_Booking-React/static/media/background2.8b74bf64fd2ac878d214.jpg",
+    "static/media/background3.jpg": "/Flight_Booking-React/static/media/background3.ab722b81ceebb1a47d08.jpg",
+    "static/media/background.jpg": "/Flight_Booking-React/static/media/background.b4b20d9fb456f13660a2.jpg",
+    "index.html": "/Flight_Booking-React/index.html",
+    "main.036ea0e1.css.map": "/Flight_Booking-React/static/css/main.036ea0e1.css.map",
+    "main.097cd61d.js.map": "/Flight_Booking-React/static/js/main.097cd61d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.036ea0e1.css",
+    "static/js/main.097cd61d.js"
+  ]
+}
